@@ -1,4 +1,4 @@
-# Visual Studio Code
+# Visual Studio Code for PHP developers
 ## Extensions (расширения):
 1. bmewburn.vscode-intelephense-client
 2. DEVSENSE.composer-php-vscode
