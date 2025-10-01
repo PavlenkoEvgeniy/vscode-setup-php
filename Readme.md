@@ -23,8 +23,12 @@
 21. PKief.material-icon-theme
 22. ctf0.vscode-php-getters-setters-new
 23. alefragnani.project-manager
+24. ericgomez.phpstorm-theme
+25. ericgomez.php-string-syntax
+26. ericgomez.php-debug-inline
+27. download from google fonts: JetBrains Mono
 
-## php-cs linter
+## php-cs-fixer linter
 
 1. Перейти в корень пользователя:
 ```bash
