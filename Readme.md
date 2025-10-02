@@ -23,10 +23,11 @@
 21. PKief.material-icon-theme
 22. ctf0.vscode-php-getters-setters-new
 23. alefragnani.project-manager
-24. ericgomez.phpstorm-theme
-25. ericgomez.php-string-syntax
-26. ericgomez.php-debug-inline
-27. download from google fonts: JetBrains Mono
+24. MihailUrakov.php-expressions-helper
+25. ericgomez.phpstorm-theme
+26. ericgomez.php-string-syntax
+27. ericgomez.php-debug-inline
+28. download from google fonts: JetBrains Mono
 
 ## php-cs-fixer linter
 
