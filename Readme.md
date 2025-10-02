@@ -29,7 +29,7 @@
 27. ericgomez.php-debug-inline
 28. download from google fonts: JetBrains Mono
 
-## php-cs-fixer linter
+## php-cs-fixer (linter)
 
 1. Перейти в корень пользователя:
 ```bash
