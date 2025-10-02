@@ -62,6 +62,7 @@ return (new Config())
             ],
         ],
         'phpdoc_to_comment' => false,
+        'increment_style' => false,
     ])
     ->setFinder(
         (new Finder())
